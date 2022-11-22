@@ -2,7 +2,7 @@
 
 Basic PHP and WordPress functions. Install with Composer:
 
-    composer require Castlegate/ersatz-functions
+    composer require castlegate/ersatz-functions
 
 ## Functions
 
